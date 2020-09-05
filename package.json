@@ -53,7 +53,7 @@
         "map-stream": "0.1.0",
         "mime": "1.2.11",
         "moment": "2.8.3",
-        "node-sass": "3.9.3",
+        "node-sass": "4.13.1",
         "ns-uploader": "file:./ns_npm_repository/ns-uploader",
         "progress": "1.1.7",
         "q": "1.0.1",
